@@ -1,0 +1,16 @@
+# Six-site scope and research priorities
+
+Determine fit from the user's actual consumer intent. Daily reports can contain misclassified entries; a row's location does not prove its fit. Apply Beauty → Sports → Fashion precedence: beauty/care belongs to Beauty; apparel, shoes, and bags for sports participation or training belong to Sports; everyday nonsport styling belongs to Fashion. Explain material conflicts with the user's specified site and ask for confirmation; never silently switch sites.
+
+| Site | Core consumer tasks | Attributes and boundaries to verify | Research leads |
+|---|---|---|---|
+| Fashion | Style, outfits, sizing, and care for clothing, shoes, bags, and accessories | Actual fit, length, construction, composition, care; do not substitute body-type stereotypes for trying on | Who What Wear, Vogue Shopping, InStyle Fashion, GQ Recommends; Hypebeast and Highsnobiety for streetwear/sneakers |
+| Sports | Fitness, running, cycling, outdoor activities, camping, golf, and using sports equipment | Specific activity, movement/environment, fit, weight, load/protection evidence; tutorials are allowed, health/safety conclusions need qualified evidence | GearJunkie, OutdoorGearLab, Runner's World Gear, Bicycling Gear, Golf Monthly Equipment, Garage Gym Reviews |
+| Tech | Devices/accessories, power, audio, battery life, compatibility | Exact model/version, protocols, signal direction, power, host limitations; connector shape alone cannot guarantee compatibility | TechRadar, Tom's Guide, PCMag, CNET, Android Authority, MacRumors, RTINGS, SoundGuys |
+| Home & Garden | Home, furniture, bedding, renovation, gardening, space improvement | Measurements, materials, environment, installation, maintenance; do not guess load limits, anti-tip safety, or electrical safety | The Spruce, Apartment Therapy, BHG, Bob Vila, This Old House, Gardening Know How, Homes & Gardens |
+| Lifestyle | Gifts, travel, weddings/occasions, pet living | Recipient/scenario, travel restrictions, dimensions/capacity, usage frequency; do not turn pet medical questions into ordinary shopping advice | The Strategist, Real Simple, Travel + Leisure, Condé Nast Traveler, Pack Hacker, The Knot, Brides, The Spruce Pets, Daily Paws, Rover |
+| Beauty | Skincare, makeup, hair, fragrance, nails, beauty tools | Formulation/tool type/use conditions; do not infer ingredients from images or transfer another product's efficacy; medical/allergy safety needs appropriate specialist review | Allure, Byrdie, NewBeauty, The Zoe Report Beauty; Glamour/Cosmopolitan for supplementary trends |
+
+These sites are research leads, not a mandatory list or blanket factual authority. Find same-intent content for the topic. Prioritize brands/manufacturers, manuals, standards, and appropriate specialists for product, installation, medical, safety, or compatibility claims.
+
+Optionally read a source pool supplied by the user or workspace instructions. In the original SEO workspace its relative location is `01_内容矩阵/01_热点获取/框架/vertical_content_sources.json`; it is not bundled or required. Do not modify it. The user's latest explicit rules override historical frameworks. Do not classify by keywords alone: street-style sneakers and running training express different intents.

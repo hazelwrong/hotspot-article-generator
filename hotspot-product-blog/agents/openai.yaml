@@ -1,0 +1,4 @@
+interface:
+  display_name: "六站热点商品博客"
+  short_description: "将六站热点加工为有信息增量的英文商品决策文章，附图文商品模块与中文审阅记录"
+  default_prompt: "Use $hotspot-product-blog to create an English HTML article and brief Chinese review notes for my specified site and hotspot, without publishing."
