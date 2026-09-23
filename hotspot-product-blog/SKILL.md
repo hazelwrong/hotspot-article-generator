@@ -5,6 +5,8 @@ description: Turn specified trends or daily hotspot selections into product-deci
 
 # Hotspot Product Blog
 
+Source: [hotspot-article-generator](https://github.com/hazelwrong/hotspot-article-generator), branch `main`, directory `hotspot-product-blog/`. Keep the installed skill and this source synchronized when updating; do not publish workspace reports, article drafts, credentials, or personal paths.
+
 Local trial version. Turn screened hotspots into useful what / why / how-to / guide / comparison / review / explainer / tutorial / inspiration articles. Product content is not limited to reviews: the trend opens the conversation; consumer decisions form the substance. Deliver drafts for an intern or editor to inspect, never automatically publish.
 
 ## Working agreement
